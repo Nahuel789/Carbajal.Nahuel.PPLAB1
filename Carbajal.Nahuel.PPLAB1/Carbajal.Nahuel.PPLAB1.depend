@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1602683652 source:c:\users\roberto\desktop\carbajal.nahuel.pplab1\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"bicicletas.h"
+	"menu.h"
+	"tipos.h"
+	"datastore.h"
+
+1602683419 c:\users\roberto\desktop\carbajal.nahuel.pplab1\bicicletas.h
+	"tipos.h"
+	"colores.h"
+
+1602682057 c:\users\roberto\desktop\carbajal.nahuel.pplab1\utn.h
+	"bicicletas.h"
+	"trabajos.h"
+
+1602681834 c:\users\roberto\desktop\carbajal.nahuel.pplab1\trabajos.h
+	"fecha.h"
+	"bicicletas.h"
+	"servicios.h"
+
+1602431575 c:\users\roberto\desktop\carbajal.nahuel.pplab1\fecha.h
+
+1602683712 c:\users\roberto\desktop\carbajal.nahuel.pplab1\datastore.h
+	"fecha.h"
+
+1602681174 c:\users\roberto\desktop\carbajal.nahuel.pplab1\menu.h
+
+1602679693 source:c:\users\roberto\desktop\carbajal.nahuel.pplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+	"bicicletas.h"
+	"menu.h"
+	"trabajos.h"
+
+1602677202 source:c:\users\roberto\desktop\carbajal.nahuel.pplab1\menu.c
+	<stdio.h>
+	<ctype.h>
+	"menu.h"
+	"utn.h"
+
+1602680955 source:c:\users\roberto\desktop\carbajal.nahuel.pplab1\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajos.h"
+	"servicios.h"
+	"utn.h"
+
+1602679471 source:c:\users\roberto\desktop\carbajal.nahuel.pplab1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1602683185 c:\users\roberto\desktop\carbajal.nahuel.pplab1\tipos.h
+
+1602680640 source:c:\users\roberto\desktop\carbajal.nahuel.pplab1\colores.c
+	<stdio.h>
+	"colores.h"
+
+1602683186 c:\users\roberto\desktop\carbajal.nahuel.pplab1\colores.h
+
+1602683032 source:c:\users\roberto\desktop\carbajal.nahuel.pplab1\servicios.c
+	<stdio.h>
+	"servicios.h"
+
+1602683003 c:\users\roberto\desktop\carbajal.nahuel.pplab1\servicios.h
+
+1602680652 source:c:\users\roberto\desktop\carbajal.nahuel.pplab1\tipos.c
+	<stdio.h>
+	"tipos.h"
+
