@@ -127,33 +127,15 @@ int altaTrabajos(eTrabajo* arrayT, int tamT, int legajx,eBicicleta* arrayB,int t
 
             }
 
-
-
-
-
-
-
-
-
-
         }
 
 
     }
 
-
-
-
-
     return retorno;
 
 
 }
-
-
-
-
-
 
 void mostrarTrabajo(eTrabajo unTrabajo,eBicicleta* arrayB,int tamB,eServicio* arrayS,int tamS)
 {
@@ -179,7 +161,7 @@ int mostrarTrabajos(eTrabajo* arrayT,int tamTr,eBicicleta* arrayB,int tamB,eServ
         printf("......................................................................................................................\n");
         printf("..............................................   LISTA DE TRABAJOS   .................................................\n");
         printf("......................................................................................................................\n");
-        printf("ID                   BICICLETA                              SERVICIO                                  FECHA           \n");
+        printf("ID                   BICICLETA                          SERVICIO                                  FECHA           \n");
 
         for(int i=0; i<tamTr; i++)
         {
@@ -285,5 +267,31 @@ int cargarDescripcionServicio(eServicio array[],int tam,int idServicio,char* des
 }
 
 
+int mostrarFechas(eTrabajo* arrayT,int tamT)
+{
+    int retorno=-1;
+
+    if(arrayT!= NULL && tamT > 0)
+    {
+
+        printf("______________________________________________________________________________________________________________________\n");
+        printf("________________________________________________  LISTA DE FECHAS ____________________________________________________\n");
+        printf("______________________________________________________________________________________________________________________\n\n");
+
+        for(int i=0;i<tamT;i++)
+        {
+
+            if(!arrayT[i].isEmpty)
+            {
+
+        printf("                                                     %d/%d/%d                                                      \n",arrayT[i].fecha.dia,arrayT[i].fecha.mes,arrayT[i].fecha.anio);
+
+            }
+        }
+        retorno = 0;
+    }
+    return retorno;
+
+}
 
 

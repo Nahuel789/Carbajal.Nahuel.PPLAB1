@@ -142,7 +142,7 @@ void mostrarBicicleta(eBicicleta unaBicicleta,eColor* arrayC,int tamC,eTipo* arr
     cargarDescripcionColor(arrayC,tamC,unaBicicleta.idColor,descripColor);
     cargarDescripcionTipo(arrayT,tamT,unaBicicleta.idTipo,descripTipo);
 
-    printf("%2d    %15s        %15s         %15s                        %.2f\n", unaBicicleta.id, unaBicicleta.marca,descripTipo,descripColor,unaBicicleta.rodado);
+    printf("%2d              %15s                     %15s           %15s                 %.2f\n", unaBicicleta.id, unaBicicleta.marca,descripTipo,descripColor,unaBicicleta.rodado);
 
 }
 
@@ -158,7 +158,7 @@ int mostrarBicicletas(eBicicleta* arrayB,int tam,eColor* arrayC,int tamC,eTipo* 
         printf(".....................................................................................................................\n");
         printf(".............................................      LISTA DE BICICLETAS      .........................................\n");
         printf(".....................................................................................................................\n");
-        printf("ID                 MARCA                  TIPO                    COLOR                        RODADO            \n");
+        printf("ID                         MARCA                           TIPO                          COLOR                 RODADO           \n\n");
 
         for(int i=0; i<tam; i++)
         {

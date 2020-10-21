@@ -77,3 +77,100 @@
 	<stdio.h>
 	"tipos.h"
 
+1603282105 source:c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\colores.c
+	<stdio.h>
+	"colores.h"
+
+1603282105 c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\colores.h
+
+1603282105 source:c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\servicios.c
+	<stdio.h>
+	"servicios.h"
+
+1603282105 c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\servicios.h
+
+1603282105 source:c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\tipos.c
+	<stdio.h>
+	"tipos.h"
+
+1603282105 c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\tipos.h
+
+1603284587 source:c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\trabajos.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajos.h"
+	"servicios.h"
+	"utn.h"
+
+1603287750 c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\trabajos.h
+	"fecha.h"
+	"bicicletas.h"
+	"servicios.h"
+
+1603282105 c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\fecha.h
+
+1603284184 c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\bicicletas.h
+	"tipos.h"
+	"colores.h"
+
+1603287793 c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\utn.h
+	"bicicletas.h"
+	"trabajos.h"
+
+1603287774 source:c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1603285090 source:c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\menu.c
+	<stdio.h>
+	<ctype.h>
+	"menu.h"
+	"utn.h"
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"menu.h"
+	"utn.h"
+
+1603282499 c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\menu.h
+
+1603287262 source:c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\bicicletas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+	"bicicletas.h"
+	"menu.h"
+	"tipos.h"
+	"datastore.h"
+
+1603285456 c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\datastore.h
+	"fecha.h"
+
+1603288128 source:c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\informes.c
+	"informes.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1603289783 c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\informes.h
+	"bicicletas.h"
+	"colores.h"
+	"tipos.h"
+	"trabajos.h"
+
+1603287111 source:c:\users\roberto\desktop\carbajal.nahuelpp.2daparte.lab1\carbajal.nahuel.pplab1\carbajal.nahuel.pplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"utn.h"
+	"bicicletas.h"
+	"menu.h"
+	"trabajos.h"
+	"informes.h"
+

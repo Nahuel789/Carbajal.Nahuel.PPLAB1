@@ -111,3 +111,12 @@ int cargarDescripcionServicio(eServicio*array,int tam,int idServicio,char* descr
 int altaTrabajos(eTrabajo* arrayT, int tamT, int legajx,eBicicleta* arrayB,int tamB,eColor* arrayC,int tamC,eTipo* arrayTi,int tamTi,eServicio* arrayS,int tamS);
 
 
+/** \brief Muestra las fechas ingresadas
+ *
+ * \param arrayT puntero a array Trabajos
+ * \param tamT tamanio de array Trabajos
+ * \return -1 si hay un error, 0 si esta todo ok
+ *
+ */
+
+int mostrarFechas(eTrabajo* arrayT,int tamT);

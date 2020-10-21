@@ -561,3 +561,24 @@ int validarRodado(float rodado)
     return retorno;
 
 }
+
+/*
+int validarMarca(eBicicleta* array,int tamT,char* marca)
+ {
+    int retorno=-1;
+    if(array != NULL && tamT > 0)
+    {
+
+    for(int i=0;i<tamT;i++)
+    {
+
+       if(strcmp(array[i].marca,marca)== 0)
+       {
+        retorno =0;
+       }
+    }
+    }
+    return retorno;
+}
+*/
+

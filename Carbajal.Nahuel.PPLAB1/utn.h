@@ -127,6 +127,5 @@ int validarIdBici(eBicicleta* array,int tam,int idBici);
  * \return 0 si esta todo ok, -1 si se produjo un error
  *
  */
-
 int validarRodado(float rodado);
 

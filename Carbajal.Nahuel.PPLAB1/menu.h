@@ -10,7 +10,6 @@
  * \return la opcion seleccionada
  *
  */
-
 int menu();
 
 /** \brief MENU DE LA OPCION MODIFICACION
@@ -18,5 +17,12 @@ int menu();
  * \return la opcion seleccionada
  *
  */
-
 int menuModificacion();
+
+/** \brief MENU DE INFORMES
+ *
+ * \return la opcion seleccionada
+ *
+ */
+
+int menuInformes();
